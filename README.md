@@ -3,8 +3,8 @@
 Fork this project to your local directory using the following git command:
 
 ```bash
-git clone https://github.com/JavascriptDon/SvelteTodoApp.git
-cd SvelteTodoApp
+git clone https://github.com/JavascriptDon/Svelte-Dad-Jokes-App
+cd Svelte-Dad-Jokes-App
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -15,7 +15,7 @@ cd SvelteTodoApp
 Install the dependencies...
 
 ```bash
-cd SvelteTodoApp
+cd Svelte-Dad-Jokes-App
 npm install
 ```
 
